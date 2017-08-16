@@ -23,4 +23,9 @@ public class SpringBootExample extends SpringBootServletInitializer {
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SpringBootExample.class, args);
 }
+	
+	public void test()
+	{
+		
+	}
 }
